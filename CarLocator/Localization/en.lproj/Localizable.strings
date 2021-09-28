@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  CarLocator
+
+  Created by Amitabha Saha on 24/09/21.
+  
+*/
+
+
+"manual_key" = "Manual";
+"auto_key" = "Autometic";
+"unknown" = "Unknown";
+"diesel_key" = "Diesel";
+"petrol_key" = "Petrol";
+"ev_key" = "EV";
+
+"midnight_black" = "Midnight Black";
+"hot_chocolate" = "Hot Chocolate";
+"midnight_black_metal" = "Midnight Black Metal";
+"light_white" = "Light White";
+"iced_chocolate" = "Iced Chocolate";
+"iced_chocolate_metal" = "Iced Chocolate Metal";
+"alpinweiss" = "Alpinweiss";
+"saphirschwarz" = "Saphirschwarz";
+"absolute_black_metal" = "Black Metal";
+"schwarz" = "Black";
+
+"generic_error" = "Oops !! Something went wrong";
+"no_network" = "No network connected, please check your internet connection.";
+
