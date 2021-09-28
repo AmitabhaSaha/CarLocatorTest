@@ -21,8 +21,8 @@ handling and automated testing. - `DONE`
 ![Alt text](CarLocator/Documentation/IMG_3734.PNG "No Network View")
 
 ## Setup:
-- Application also runs on m1 based Macs (Compatibility mode)
 - Xcode used 13 Beta 
+- Device used to test - iOS 15, iPhone 11
 
 ## Architecture: 
 - MVVM-C Architure followed. 
