@@ -1,9 +1,6 @@
 # CarLocatorTest
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![codecov.io](https://codecov.io/github/matej/MBProgressHUD/coverage.svg?branch=master)](https://codecov.io/github/matej/MBProgressHUD?branch=master)
-
-
 UI: 
 - UI is optimised for iOS 15 iPhone / iPod devices, Landscape mode
 
