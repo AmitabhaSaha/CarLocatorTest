@@ -27,7 +27,6 @@ class ErrorHandler {
     }
     
     func handleApplicaitonError(error: Error?) {
-        print(error?.localizedDescription ?? "")
         enqueueError(string: LocalizableConstants.Error.GenericError.localized)
     }
     

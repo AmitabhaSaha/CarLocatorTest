@@ -57,8 +57,6 @@ class InitialViewModelTests: XCTestCase {
             }
             
             waitForExpectations(timeout: 30.0, handler: nil)
-        } else {
-            print("")
         }
     }
     
