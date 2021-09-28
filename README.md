@@ -1,8 +1,14 @@
 # CarLocatorTest
 
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+
 UI: 
 - UI is optimised for iOS 15 iPhone / iPod devices, Landscape mode
+
+![Alt text](CarLocator/Documentation/IMG_3729.PNG "Map View")
+![Alt text](CarLocator/Documentation/IMG_3730.PNG "List View")
 
 Setup:
 - Application also runs on m1 based Macs (Compatibility mode)
