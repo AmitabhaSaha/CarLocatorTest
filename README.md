@@ -17,6 +17,8 @@ handling and automated testing. - `DONE`
 
 ![Alt text](CarLocator/Documentation/IMG_3729.PNG "Map View")
 ![Alt text](CarLocator/Documentation/IMG_3730.PNG "List View")
+![Alt text](CarLocator/Documentation/IMG_3733.PNG "No Network View")
+![Alt text](CarLocator/Documentation/IMG_3734.PNG "No Network View")
 
 ## Setup:
 - Application also runs on m1 based Macs (Compatibility mode)
